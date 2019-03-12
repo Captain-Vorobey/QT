@@ -1,0 +1,37 @@
+#include <QCoreApplication>
+#include <iostream>
+
+#include "device_components.h"
+
+class Device
+{
+
+public:
+    BoxMod box_mod;
+    Battery baterry;
+    Atomizer atomizer;
+    Tank tank
+    
+    if(mod == 'drag')
+    {
+        
+    }
+    
+    if(mod == 'regerhte0')
+    {
+        
+    }
+    
+    
+    if(other_simvol)
+    {
+        throw ("Error");
+    }
+};
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    return a.exec();
+}
